@@ -1,0 +1,72 @@
+
+.rad{
+text-align:center;
+}
+.navbar-brand{
+  color:black;
+}
+.navbar{
+  margin: 1%;
+}
+.mainh{
+  border: solid 1px;
+  border-radius:12px;
+  font-size: 30px;
+  width: 80%;
+  text-align: center;
+  margin-left: 7%;
+  background-color: #0AB8FF;
+}
+.sml{
+  width:5%;
+
+}
+
+.rade{
+  text-align: center;
+  margin-top: 5%;
+}
+.but {
+  margin: 0 4%;
+}
+label{
+  font-family: sans-serif;
+}
+.ac{
+  margin-right: 5%;
+}
+.aba{
+  margin :2%;
+}
+.mar{
+  margin:2%;
+}
+.ax{
+  text-align: center;
+  margin-top: 5%;
+}
+.navbckc{
+  background-color:#FEF7D9;
+
+}
+.vil-grower-names{
+  text-align: center;
+
+    border: solid 1px;
+    border-radius:12px;
+    font-size: 30px;
+    width: 50%;
+    margin: 3% 30% ;
+padding: 1%;
+
+}
+h2{
+  text-align: center;
+}
+.c{
+  text-align: center;
+
+}
+.bc{
+  width:60%;
+}
